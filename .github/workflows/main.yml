@@ -21,4 +21,5 @@ jobs:
           git config user.email kim99602@naver.com
           git add -A .
           git commit -m "generated"
-          git push --force origin master
+          git pull --rebase origin master
+          git push origin master
