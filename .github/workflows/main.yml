@@ -19,7 +19,8 @@ jobs:
         run: |
           git config user.name ChocoCoffee999
           git config user.email kim99602@naver.com
+          git fetch origin matser
+          git merge origin/master
           git add -A .
           git commit -m "generated"
-          git pull origin matser
           git push --force origin master
