@@ -17,18 +17,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          echo "Starting commit and push process..."
           git config user.name ChocoCoffee999
-          echo "Configured git user name"
           git config user.email kim99602@naver.com
-          echo "Configured git user email"
-          git fetch origin master
-          echo "Fetched origin master"
-          git merge origin/master
-          echo "Merged origin/master"
           git add -A .
-          echo "Staged changes"
           git commit -m "generated"
-          echo "Committed changes"
-          git push --force origin master
-          echo "Pushed changes"
+          git pull --rebase origin master
+          git push origin master
