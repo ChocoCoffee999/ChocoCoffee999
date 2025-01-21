@@ -19,7 +19,6 @@ jobs:
         run: |
           git config user.name ChocoCoffee999
           git config user.email kim99602@naver.com
-          git pull
           git add -A .
           git commit -m "generated"
-          git push
+          git push --force origin master
