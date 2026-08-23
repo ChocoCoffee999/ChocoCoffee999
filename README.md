@@ -29,7 +29,7 @@
       </div>
       <div align= "center"> 
       <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align="center">
-      [![ChocoCoffee999's GitHub stats](https://github-stats-extended.vercel.app/api?username=ChocoCoffee999)](https://github.com/stats-organization/github-stats-extended)
+      ![ChocoCoffee999's GitHub stats](https://github-stats-extended.vercel.app/api?username=ChocoCoffee999)
       </div>
 </div>
     
