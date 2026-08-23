@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
       <br/>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
