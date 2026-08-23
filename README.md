@@ -29,10 +29,8 @@
       </div>
       <div align= "center"> 
       <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align="center">
-      ![ChocoCoffee999's GitHub stats](https://github-stats-extended.vercel.app/api?username=ChocoCoffee999)
+      <img src="https://github-stats-extended.vercel.app/api?username=ChocoCoffee999" alt="ChocoCoffee999's GitHub stats"/>
       </div>
 </div>
     
-
-
 ![](./profile-3d-contrib/profile-night-green.svg)
